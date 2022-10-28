@@ -1,0 +1,11 @@
+{
+  "name": "Thunder",
+  "version": "1.0",
+  "gameTypes": "melee, classic, 1v1",
+  "authors": "Amadeu",
+  "description": "Now they're running for shelter and they run for their lives now they're looking for cover",
+  "homepage": "",
+  "countryCodes": "br",
+  "platform": "JVM",
+  "programmingLang": "Kotlin 1.6.20"
+}
